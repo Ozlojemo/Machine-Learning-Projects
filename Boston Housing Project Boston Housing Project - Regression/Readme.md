@@ -11,7 +11,7 @@ This project aims to build a regression model to predict the prices of houses in
 
 
 ## Libraries Used
-a.Numpy
+*, Numpy
 b.Pandas
 c.Matplotlib
 d.Seaborn
