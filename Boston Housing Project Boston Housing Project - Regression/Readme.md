@@ -11,11 +11,11 @@ This project aims to build a regression model to predict the prices of houses in
 
 
 ## Libraries Used
-a. Numpy
-b. Pandas
-c. Matplotlib
-d. Seaborn
-e. Scikit-learn
+1. Numpy
+2. Pandas
+3. Matplotlib
+4. Seaborn
+5. Scikit-learn
 
 
 
