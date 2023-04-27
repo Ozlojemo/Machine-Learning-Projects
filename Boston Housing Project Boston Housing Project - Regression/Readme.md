@@ -35,14 +35,13 @@ After importing the dataset, the column names are changed to lowercase and missi
 
 Numerical variables with missing values are handled using the mode of each variable. Categorical variables with missing values are filled with 'None'. Feature correlation is explored using a heatmap plot.
 
-Feature Encoding
+## Feature Encoding
 Label encoding is used for converting categorical variables to numeric values. Outliers are detected using the Isolation Forest algorithm and removed from the dataset.
 
-Model Training and Evaluation
+## Model Training and Evaluation
 The project uses a linear regression model to predict the sale price of a house. The model is trained on the training dataset using the LinearRegression() function from Scikit-learn. Model evaluation is done using R-squared and Mean Squared Error metrics.
 
 Finally, the model is used to predict the sale prices of houses in the test dataset. Model evaluation is done using the same metrics as before.
-
 
 
 
