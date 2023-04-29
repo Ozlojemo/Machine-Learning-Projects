@@ -19,3 +19,5 @@ The threshold for default classification was varied to determine its effect on m
 
 # Risk Scoring
 The model was used to predict the risk of default for a new set of loan applicants. The predicted default probability was transformed into a risk score, with higher scores indicating lower risk. The scores were added to the test set as a new feature.
+
+
