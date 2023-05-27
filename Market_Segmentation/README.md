@@ -50,3 +50,19 @@ To run the analysis, the following libraries are required:
 3. matplotlib
 4. seaborn
 5. sklearn
+
+
+# Findings
+Based on the analysis conducted, the following findings were observed:
+
+1. The North region had the highest revenue generation, followed by the South, West, and East regions.
+2. There was a positive correlation between the unit price and revenue, indicating that higher-priced products tend to generate more revenue.
+3. The clustering analysis revealed distinct groups of transactions and revenue patterns, indicating different market segments within the dataset.
+
+# Final Observations
+
+Based on the analysis conducted, the following observations can be made:
+
+1. The North region shows the highest revenue potential and should be prioritized in marketing and sales efforts.
+2. Pricing strategies should be carefully considered, as higher-priced products have shown a positive impact on revenue generation.
+3. The identified market segments can be targeted with tailored marketing campaigns to maximize sales opportunities and
